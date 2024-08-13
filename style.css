@@ -1,5 +1,8 @@
 body{
-    background-color: rgb(5, 5, 194);
+    background-image: url(images/istockphoto-170958625-170667a.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 .center{
     text-align: center;
